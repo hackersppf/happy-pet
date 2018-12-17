@@ -32,3 +32,5 @@
 - 1 x 12V 1-Channel Relay Module Board with Optocoupler (Για τον έλεγχο της ηλεκτροβάνας)
 - 1 x Real Time Clock Module
 - 1 x PLA filament
+## Πρόχειρο σχέδιο κατασκευής
+![](https://github.com/hackersppf/happy-pet/blob/master/happy%20pet%20%CF%80%CF%81%CE%BF%CF%83%CF%87%CE%AD%CE%B4%CE%B9%CE%BF.png)
