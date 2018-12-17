@@ -23,8 +23,8 @@
 ## Λίστα βασικού εξοπλισμού
 - 1 x ESP32S (Έχει αρκετά GPIO pins για όλα τα περιφερειακά μας και ενσωματωμένο wifi)
 - 2 x PIR sensors 
-- 1 x mid range RFID reader
-- 1 x small range RFID reader 
+- 3 x mid range RFID reader
+- 3 x small range RFID reader 
 - 10 x RFID stickers
 - 10 x RFID keychains
 - 2 x 28-BYJ48 Stepper motors with ULN2003 driver
